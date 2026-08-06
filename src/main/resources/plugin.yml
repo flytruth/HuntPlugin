@@ -1,0 +1,13 @@
+name: HuntPlugin
+version: 1.0
+main: com.daniel.huntplugin.HuntPlugin
+api-version: '1.21'
+authors: [DevFly, BexindStudio]
+commands:
+  hunt:
+    description: Управление охотой
+    permission: hunt.admin
+permissions:
+  hunt.admin:
+    description: Доступ к команде /hunt
+    default: op

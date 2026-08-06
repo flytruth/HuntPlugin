@@ -1,0 +1,8 @@
+# Длительность охоты в минутах
+hunt-duration: 25
+# Как часто писать координаты в чат (в секундах)
+broadcast-interval: 30
+# Сколько уровней опыта выдается убийце
+xp-reward: 75
+
+#By DevFly (Bexind Studio) for Experience SMP
