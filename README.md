@@ -23,7 +23,9 @@ Command	Description	Permission
 
 The plugin generates a config.yml file inside the plugins/HuntPlugin folder upon first launch. 
 
-# Duration of the hunt in minuteshunt-duration: 25# How often to broadcast coordinates in chat (in seconds)broadcast-interval: 30# How many XP levels to give the killer upon successful huntxp-reward: 75
+Duration of the hunt in minuteshunt-duration: 25
+How often to broadcast coordinates in chat (in seconds)broadcast-interval: 30
+How many XP levels to give the killer upon successful huntxp-reward: 75
 
 🛠️ Technical Details
 
