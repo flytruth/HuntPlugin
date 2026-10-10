@@ -52,5 +52,4 @@ text
 
 
 ## You can visit this project also in:
-Modrinth: https://modrinth.com/plugin/hunt-plugin
-Black-Minecraft: 
+Modrinth: https://modrinth.com/plugin/hunt-plugin 
