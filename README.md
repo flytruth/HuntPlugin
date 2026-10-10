@@ -49,3 +49,8 @@ text
 1. In Zed, in the root folder of your project (where `pom.xml` is), create a new file named `README.md`.
 2. Paste all the text above into it and save.
 3. Now your project looks 100% professional! If you ever upload your code to GitHub, this file will automatically show up as the main description of your repository.
+
+
+## You can visit this project also in:
+Modrinth: https://modrinth.com/plugin/hunt-plugin
+Black-Minecraft: 
